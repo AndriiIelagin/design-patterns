@@ -18,5 +18,5 @@ class Server {
   }
 }
 
-const aws = new Server('AWS German', '82.21.21.32')
+const aws = new Server('AWS German', '127.32.12.11')
 console.log(aws.getUrl())
