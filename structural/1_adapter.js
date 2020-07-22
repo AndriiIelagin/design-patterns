@@ -1,3 +1,6 @@
+// Для адаптации новогофункционала под старый интерфейс
+// For adaptation of new functionality under an old/existing interface
+
 class OldCalc {
   operations(t1, t2, operation) {
     switch(operation) {
